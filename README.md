@@ -24,7 +24,7 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 
     Derived from job postings or other knowledge, this is where the team works. Definitely not comprehensive! **Please, help me update this too!** 
 
-# Companies (<i id="count"></i> )
+# Companies (<i id="count"></i>)
 
 ## [Access Softek Toolchains](https://www.softek-toolchains.com/careers) 📤
 
@@ -89,7 +89,17 @@ In Scope: Teams that work on language implementations, compilers for languages, 
 ## [Ascenium](https://www.ascenium.com/careers)
 🗺 _Campbell, CA_, _Stavanger and Oslo, Norway_
 
-* LLVM and Hardware codesign. 
+* LLVM and Hardware codesign.
+
+## [Astral](https://astral.sh/) 📤
+
+* [Ruff](https://astral.sh/ruff), a linter and autoformatter for Python code written in Rust.
+
+## [Autodesk](https://www.autodesk.com/careers/overview) 📤
+🗺 _Quebec, Ontario_
+
+* JIT Compiler for [Bifrost for Maya](https://newpossible.autodesk.com/bifrost) (LLVM?)
+
 
 ## [Azul](https://www.azul.com/careers-at-azul-systems/) 📤
 
@@ -153,14 +163,6 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Custom LLVM-based compiler toolchains for clients
 
-## [CompilerWorks](https://www.compilerworks.com/about/#Careers)
-
-🗺 _SF Bay Area HQ_
-
-📤 [map of locations](https://www.google.com/maps/d/u/0/viewer?mid=1QWGEbJNna8TipgJZpYRYqCUNDsj3cqzT&ll=-3.81666561775622e-14%2C-9.286491447135973&z=1)
-
-* Many SQL dialects and supporting languages
-
 ## [Crowdstrike](https://www.crowdstrike.com/careers/) 📤
 🗺 _US, Canada_
 
@@ -179,6 +181,9 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 ## [DataChemist](https://www.datachemist.com/company/our-team)
 
 * WOQL Compiler
+
+## [Deno](https://jobs.ashbyhq.com/Deno) 📤
+* JavaScript runtime and tools written in Rust
 
 ## [Distributive](https://distributive.network) 📤
 🗺  Kingston, ON (Canada)
@@ -245,6 +250,10 @@ Work on the Programming Models and Compilers (PMC) group of the Computational Sc
 
 * Erlang
 
+## [Fabric Cryptography](https://www.fabriccryptography.com/careers) 📤
+
+* LLVM-based compiler for custom cryptographic hardware
+
 ## [Facebook](https://www.facebook.com/careers/jobs/)
 
 A variety of projects, a limited subset of which I know about below. 
@@ -267,6 +276,11 @@ A variety of projects, a limited subset of which I know about below.
 ## [Fluence Labs](https://fluence.network/join.html) 📤
 
 * Aquamarine, a distributed choreography language & platform
+
+
+## [Fuel Labs](https://jobs.lever.co/fuellabs) 📤
+
+* Building [Sway](https://github.com/FuelLabs/sway), a smart-contract programming language
 
 ## [FutureWei Technologies](https://futurewei.com/index.php/fwcareers)
 
@@ -291,6 +305,11 @@ Innumerable projects, but off the top of my head:
 * [V8](https://v8.dev/)
 * [Dart](https://dart.dev/)
 * [MLIR](https://www.tensorflow.org/mlir)
+
+## [GrAI Matter Labs](https://www.graimatterlabs.ai/careers) 
+🗺 _Eindhoven, NL_
+
+>  [Our team develops the MLIR based ML compiler for our own neuromorphic/dataflow architecture.](https://discourse.llvm.org/t/ask-llvm-whos-hiring-jan-23/67894/20)
 
 ## [GrammaTech](https://www.grammatech.com/careers) 📤 (US only)
 🗺 _Ithaca, NY_
@@ -371,7 +390,8 @@ As well as some other IBM internal compilers, and LLVM projects.
 ## [Jane Street](https://www.janestreet.com/join-jane-street/apply/) 🧑‍🎓
 🗺 _New York, London_
 
-* [OCaml](https://blog.janestreet.com/work-on-the-ocaml-compiler-at-jane-street/) 
+* [OCaml](https://blog.janestreet.com/work-on-the-ocaml-compiler-at-jane-street/)
+* [Tools & Compilers Researcher Internship, Flexible](https://www.janestreet.com/join-jane-street/position/5869205002/)
 
 ## [Jetbrains](https://www.jetbrains.com/careers/apply/)
 
@@ -433,7 +453,7 @@ As well as some other IBM internal compilers, and LLVM projects.
 * [LCC](http://www.mcst.ru/lcc) optimizing compiler for MCST's chips
 * Binary translator from x86 to own Elbrus ISA
 
-## [MediaTek](https://www.mediatek.com/careers/careers)
+## [MediaTek](https://careers.mediatek.com/)
 🗺 _Woburn, MA, USA_
 
 * Compiler development for MediaTek chips
@@ -475,6 +495,10 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Building AI tooling.
 
+## [Monad Labs](https://www.monadlabs.xyz/) 📤
+
+* Accelerating blockchain 
+
 ## [Mozilla](https://careers.mozilla.org/listings/) 📤 🧑‍🎓 
 
 * Rust compiler development
@@ -494,6 +518,11 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 * Get to contribute to a compiler for a target language with a novel memory model
 * Opportunity to work on tooling support
 
+## [NextSilicon](https://www.nextsilicon.com/careers)
+🗺 _Israel_
+
+* Compiler for specialised HPC hardware
+
 ## [Nintendo](https://careers.nintendo.com/job-openings/)
 🗺 _Redmond, WA_ 
 
@@ -505,9 +534,10 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 * Python and C++
 * LLVM / MLIR / PyTorch
 
-## [Nomic Labs](https://www.notion.so/Nomic-Labs-jobs-991b37c547554f75b89a95f437fd5056#631ae440339f432096933cdccee17b98) 📤
+## [Nomic Foundation](https://nomic.foundation/) 📤 
 
-* Ethereum ecosystem such as Hardhat and Solidity
+* Compiler Engineering (Rust) - Slang
+* Ethereum Development Runtime (Rust) - EDR
 
 ## [Nuvia](https://nuviainc.com/careers) 📤
 
@@ -627,7 +657,7 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 
 * Quantum Computing Compiler (LLVM + Rust)
 
-## [Rivos](https://www.rivosinc.com/} 
+## [Rivos](https://www.rivosinc.com/)
 🗺 Mountain View CA , Austin TX, Portland OR, Fort Collins CO, 
 🗺 Cambridge, UK 
 
@@ -687,6 +717,10 @@ We develop custom GraalVM and Java runtime environments and virtual machines for
 * Interpreters, garbage collectors
 * JVM, Truffle, Graal
 
+## [Shorebird](https://shorebird.dev/jobs/) 📤
+
+* Dart VM and compiler
+
 ## [Siemens](https://new.siemens.com/global/en/company/jobs.html)
 🗺 _A number of locations_
 
@@ -707,6 +741,10 @@ A number of Compiler/PL projects:
 
 * Heterogenous architecture development
 
+## [Snyk](https://snyk.io/careers/all-jobs/)
+🗺 _Bucharest, Romania_
+
+* [Snyk Code](https://snyk.io/product/snyk-code/), a static analysis tool that exists as part of the Snyk platform
 
 ## [Solana](https://jobs.solana.com/)
 
@@ -807,9 +845,19 @@ Building machine learning hardware
 * LLVM
 * Performance Analysis
 
+## [Vercel](https://vercel.com/careers?department=Engineering)
+🗺 United States
+
+Static analysis framework for JavaScript applications
+
 ## [Veridise](https://veridise.com/careers/) 📤
 
 Automated analysis of blockchain programs, built atop LLVM
+
+## [Vypercore](https://www.vypercore.com/team) 
+🗺 _Bristol / Cambridge_
+
+Toolchain development for RISC-V core with novel hardware memory allocation management technology. 
 
 ## [Wasmer](https://www.workatastartup.com/jobs/15822)
 
@@ -834,6 +882,11 @@ Automated analysis of blockchain programs, built atop LLVM
 
 * Erlang
 
+## [Wibu-Systems](https://jobs.wibu.com/de?id=d7d9f1) 🧑‍🎓
+🗺  _Karlsruhe, Germany_
+
+* compiler development and security research with LLVM, .NET CIL, Python and more
+
 ## [WindRiver](https://www.windriver.com/careers/)
 
 * Compilers for VxWorks
@@ -849,7 +902,7 @@ Automated analysis of blockchain programs, built atop LLVM
 
 * Compiler, runtime and IDE for Workday's proprietary programming languages, XpressO and YP
 
-## [Woven Planet](https://jobs.lever.co/woven-planet/)
+## [Woven Planet](https://woven.toyota/en/careers/)
 🗺 _Tokyo, Japan_
 
 * Static analysis and developer tools for vehicle software.
